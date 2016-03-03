@@ -1,0 +1,5 @@
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\JobLineBUS.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\JobLineBUS.pdb
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\obj\Debug\JobLineBUS.csprojResolveAssemblyReference.cache
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\obj\Debug\JobLineBUS.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\obj\Debug\JobLineBUS.pdb
