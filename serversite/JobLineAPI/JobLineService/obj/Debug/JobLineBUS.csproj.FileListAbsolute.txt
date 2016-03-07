@@ -1,5 +1,13 @@
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\JobLineBUS.dll
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\JobLineBUS.pdb
-D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\obj\Debug\JobLineBUS.csprojResolveAssemblyReference.cache
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\obj\Debug\JobLineBUS.dll
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\obj\Debug\JobLineBUS.pdb
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\Autofac.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\AutoMapper.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\JobLineDAL.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\EntityFramework.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\JobLineDAL.pdb
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\Autofac.xml
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\AutoMapper.xml
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\bin\Debug\EntityFramework.xml
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineService\obj\Debug\JobLineBUS.csprojResolveAssemblyReference.cache

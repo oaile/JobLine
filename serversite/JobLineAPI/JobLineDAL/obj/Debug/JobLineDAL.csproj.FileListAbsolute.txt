@@ -1,5 +1,13 @@
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\JobLineDAL.dll
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\JobLineDAL.pdb
-D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\obj\Debug\JobLineDAL.csprojResolveAssemblyReference.cache
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\obj\Debug\JobLineDAL.dll
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\obj\Debug\JobLineDAL.pdb
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\JobLineDAL.dll.config
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\Autofac.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\AutoMapper.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\EntityFramework.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\Autofac.xml
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\AutoMapper.xml
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\EntityFramework.xml
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\EntityFramework.SqlServer.xml
