@@ -14,6 +14,7 @@ namespace JobLineAPI
     {
         protected void Application_Start()
         {
+
             AutofacInitialize.InitializeIoc();
             RegisterMapping.Register();
             AreaRegistration.RegisterAllAreas();
