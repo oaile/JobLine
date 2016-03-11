@@ -1,5 +1,10 @@
 ﻿using Autofac;
+using AutoMapper;
+using JobLineBUS.Contracts;
+using JobLineBUS.Dtos;
+using JobLineBUS.Services;
 using JobLineDAL;
+using JobLineDAL.Entities;
 
 namespace JobLineBUS
 {
@@ -15,8 +20,8 @@ namespace JobLineBUS
         protected override void Load(ContainerBuilder builder)
         {
 
-            //builder.RegisterType<AgendaItemBusinessService>().
-            //    As<IAgendaBusinessService>().InstancePerRequest();
+            builder.RegisterType<UserService>().
+                As<IUserService>().InstancePerRequest();
 
             //builder.RegisterType<ManufactureBusinessService>().
             //   As<IManufactureBusinessService>().InstancePerRequest();
@@ -27,7 +32,10 @@ namespace JobLineBUS
 
         private void RegisterMapper()
         {
-            
+            Mapper.CreateMap<BaseEntity, BaseDto>().ReverseMap();
+            Mapper.CreateMap<User, UserDto>().ReverseMap();
+            Mapper.CreateMap<UserProfile, UserProfileDto>().ReverseMap();
+            Mapper.CreateMap<Role, RoleDto>().ReverseMap();
         }
     }
 }

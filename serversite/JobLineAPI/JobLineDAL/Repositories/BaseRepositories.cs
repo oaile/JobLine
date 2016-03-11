@@ -29,6 +29,12 @@ namespace JobLineDAL.Repositories
         {
             return GetEntities().AsQueryable().SingleOrDefault(x => x.Id == id);
         }
+
+        public TEntity Get(Expression<Func<TEntity, bool>> criteria)
+        {
+            return GetEntities().SingleOrDefault(criteria);
+        }
+
         public void Update(TEntity entity)
         {
             var original = GetById(entity.Id);

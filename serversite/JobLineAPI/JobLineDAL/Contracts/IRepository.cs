@@ -15,6 +15,7 @@ namespace JobLineDAL.Contracts
             int pageIndex, int pageSize, out int total, SortOrder sortOrder = SortOrder.Ascending);
 
         TEntity GetById(Guid id);
+        TEntity Get(Expression<Func<TEntity, bool>> criteria);
 
         TEntity Insert(TEntity entity);
 

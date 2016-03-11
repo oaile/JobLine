@@ -12,7 +12,7 @@ namespace JobLineDAL
         public JobLineDbContext(string connectionString)
             : base(connectionString)
         {
-           // Database.SetInitializer<WellBeingDbContext>(null);
+            //Database.SetInitializer<JobLineDbContext>(null);
         }
 
         public IDbSet<TEntity> Set<TEntity>() where TEntity : BaseEntity
