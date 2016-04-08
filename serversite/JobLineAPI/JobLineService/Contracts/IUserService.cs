@@ -11,5 +11,6 @@ namespace JobLineBUS.Contracts
     public interface IUserService
     {
         UserProfileDto GetUserProfileByUserId(Guid id);
+        UserDto Login(UserDto userDto);
     }
 }

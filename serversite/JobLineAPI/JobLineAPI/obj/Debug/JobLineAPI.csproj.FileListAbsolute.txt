@@ -44,3 +44,6 @@ D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineAPI\bin\JobLineDAL.pdb
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineAPI\bin\EntityFramework.xml
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineAPI\bin\EntityFramework.SqlServer.dll
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineAPI\bin\EntityFramework.SqlServer.xml
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineAPI\bin\System.Web.Cors.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineAPI\bin\System.Web.Http.Cors.dll
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineAPI\bin\System.Web.Http.Cors.xml

@@ -11,3 +11,4 @@ D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\EntityFra
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\bin\Debug\EntityFramework.SqlServer.xml
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\obj\Debug\JobLineDAL.dll
 D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\obj\Debug\JobLineDAL.pdb
+D:\Projects\JobLine\JobLine\serversite\JobLineAPI\JobLineDAL\obj\Debug\JobLineDAL.csprojResolveAssemblyReference.cache
